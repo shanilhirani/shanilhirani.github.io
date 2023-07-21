@@ -1,4 +1,3 @@
 ---
-title: Hello, Hi 👋
+layout: default
 ---
-
