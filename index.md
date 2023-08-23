@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Hello, Hi
+# Hello, Hi 👋
 
-I'm Shanil, and you've just landed on my Bucket of Stuff Page. If you haven't already, I'd suggest you take a look at my [Github Profile](https://github.com/shanilhirani) to read about me and what I've worked on as this page is just another **object** in my [Bucket of Stuff](#shanils-bucket-of-stuff)
+I'm Shanil and you've just landed on my Bucket of Stuff Page. If you haven't already, I'd suggest you take a look at my [Github Profile](https://github.com/shanilhirani) to read about me and what I've worked on, as this page is just another **object** in my [Bucket of Stuff](#shanils-bucket-of-stuff)
 
 ## Shanils' Bucket of Stuff
 
