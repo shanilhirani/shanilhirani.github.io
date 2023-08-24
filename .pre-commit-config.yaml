@@ -27,3 +27,10 @@ repos:
       - id: commitizen
       - id: commitizen-branch
         stages: [push]
+  - repo: local
+    hooks:
+      - id: textlint
+        name: textlint
+        description: this will auto fix textlint
+        entry: .pre-commit-scripts/textlint.sh
+        language: script
