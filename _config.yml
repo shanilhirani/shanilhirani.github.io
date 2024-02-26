@@ -143,7 +143,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
+  - CHANGELOG.md
   - config
   - Gemfile
   - Gruntfile.js
@@ -158,6 +158,13 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - cz.yaml
+  - .pre-commit-scripts
+  - devcontainer
+  - .editorconfig
+  - .gitattributes
+  - .gitignore
+  - README.md
 keep_files:
   - .git
   - .svn
