@@ -17,11 +17,11 @@ minimal_mistakes_skin: "dark" # "default" "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale: "en-GB"
-title: "Shanil Hirani"
+title: "Tech Life"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
-name: "Shanil Hirani"
-description: "Portfolio"
+subtitle: "Tech, One Commit at a Time" # site tagline that appears below site title in masthead
+name: "Shanil"
+description: ""
 url: "https://shanilhirani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: shanilhirani/shanilhirani.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -60,9 +60,9 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
-search: # true, false (default)
-search_full_content: # true, false (default)
-search_provider: # lunr (default), algolia, google
+search: true # true, false (default)
+search_full_content: true # true, false (default)
+search_provider: lunr # lunr (default), algolia, google
 lunr:
   search_within_pages: true # true, false (default)
 algolia:
@@ -104,9 +104,9 @@ google:
 
 # Site Author
 author:
-  name: "Shanil Hirani"
+  name: "Shanil"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I'm Shanil, and I build, break and fix stuff in the clouds..."
+  bio: "I build, break and fix stuff in the clouds..."
   location: "United Kingdom"
   email:
   links:
@@ -259,4 +259,4 @@ defaults:
       read_time: true
       comments: # true
       share: false
-      related: true
+      related: false
