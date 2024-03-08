@@ -4,27 +4,31 @@ title: Projects
 author_profile: true
 ---
 
-Projects I've worked on
+I've held a few different titles whilst working under my current employer delivering in various engagements;
 
-- #### UK Government Department
+- #### Technical Architect
 
-  Azure | Technical Architect
+  UK Government Department - Azure
 
-- #### Energy
+- #### Senior Cloud Engineer
 
-  Azure | Cloud Migration
+  Energy - Azure
 
-- #### Energy
+- #### Senior Platform Developer / Technical Lead
 
-  AWS | Senior Platform Developer / Tech Lead
+  Energy - AWS
 
-- #### Logistics
+- #### Lead DevOps Engineer
 
-  AWS Lead DevOps Engineer | Cloud Landing Zone Build and Application Migration
+  Logistics - AWS
+  Cloud Landing Zone Build and Application Migration
 
-- #### Financial Services - Technical Lead/Senior DevOps
+- #### Technical Lead/Senior DevOps
 
-  AWS | Cloud Migration and Application Migration
+  Financial Services - AWS
+  Cloud Migration and Application Migration
 
-- #### UK Government Department
-  AWS | Cloud Migration
+- #### Cloud Engineer
+
+  UK Government Department - AWS
+  Cloud Migration
