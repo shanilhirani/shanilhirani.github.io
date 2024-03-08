@@ -17,11 +17,11 @@ minimal_mistakes_skin: "dark" # "default" "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale: "en-GB"
-title: "Tech Life"
+title: "Shanil's Portfolio"
 title_separator: "-"
-subtitle: "Tech, One Commit at a Time" # site tagline that appears below site title in masthead
+subtitle: "" # site tagline that appears below site title in masthead
 name: "Shanil"
-description: ""
+description: "A Technical Portfolio of Projects"
 url: "https://shanilhirani.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: shanilhirani/shanilhirani.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ google:
 author:
   name: "Shanil"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I build, break and fix stuff in the clouds..."
+  bio: "I design, build and tinker in the Clouds."
   location: "United Kingdom"
   email:
   links:
@@ -119,6 +119,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shanilhirani"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/shanilhirani"
 
 # Site Footer
 footer:
@@ -262,8 +265,9 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
       share: false
       related: false
+      sitemap: false
